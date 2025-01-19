@@ -3,6 +3,8 @@
 * pip freeze > requirements.txt
 * pip install -r requirements.txt
 
+### Flask Run
+flask --debug run
 
 # Reference Works
 - https://www.dbos.dev/pricing
